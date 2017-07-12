@@ -5,7 +5,7 @@ The solution contains python code used to navigate a quadrotor simulation to hit
 
 Key concepts involved include Kalman filters, visual localization, coordinate transformation and path planning
 
-##Problem statement:
+## Problem statement:
 In this final exercise you have to fly again through a series of beacons. In contrast to previous exercises, we only provide you with the raw odometry measurements and marker observations from the quadrotor. You will have to implement:
  - marker placement and path planning (exercise week 1),
  - position controller (exercise week 4), and
